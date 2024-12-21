@@ -1,7 +1,7 @@
-name: flutter_layout
-description: "A new Flutter project."
+name: food_delivery
+description: "A Food Delivery App"
 publish_to: 'none'
-version: 0.1.0
+version: 0.2.0
 
 environment:
   sdk: ^3.5.4
@@ -17,3 +17,8 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/
+    - assets/images/
+    - assets/icons/
+    - assets/fonts/
