@@ -314,7 +314,7 @@ class Home extends StatelessWidget {
                                                     CrossAxisAlignment.start,
                                                 children: [
                                                   Container(
-                                                    width: 200,
+                                                    width: 150,
                                                     child: Text(foodMenus[index]['name'],
                                                         style: TextStyle(
                                                           color: Colors.black,
